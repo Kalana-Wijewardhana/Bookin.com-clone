@@ -1,1 +1,1 @@
-# Bookin.com-clone
+# Booking.com-clone
